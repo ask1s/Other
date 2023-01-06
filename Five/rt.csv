@@ -1,0 +1,5 @@
+﻿PK,D,NM,Vj1,Vj2,Vj3,Vj4,NV
+NULL,NULL,5,lietadlo,autobus,vlak,lod,1
+kapacita,2,NULL,2,5,3,2,1
+rychlost,3,NULL,1,4,2,5,1
+cena,5,NULL,1,4,5,2,1
