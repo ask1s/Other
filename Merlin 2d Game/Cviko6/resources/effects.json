@@ -1,0 +1,23 @@
+[
+  {
+    "name": "damage",
+    "cost": 20
+  },
+  {
+    "name": "dot",
+    "cost": 10
+  },
+  {
+    "name": "slow",
+    "cost": 10
+  },
+  {
+    "name": "heal",
+    "cost": 20
+  },
+  {
+    "name": "boost",
+    "cost": 10
+  }
+]
+

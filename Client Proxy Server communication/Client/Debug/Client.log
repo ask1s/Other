@@ -1,0 +1,3 @@
+﻿  Client.cpp
+M:\PocSys projets\Skuska\Client\Client.cpp(209,13): warning C4101: res: неиспользованная локальная переменная
+  Client.vcxproj -> M:\PocSys projets\Skuska\Debug\Client.exe

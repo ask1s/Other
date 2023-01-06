@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "M:\\Portfolio\\Wizard OOP\\Cviko6\\Cviko6.csproj": {}
+  },
+  "projects": {
+    "M:\\Portfolio\\Wizard OOP\\Cviko6\\Cviko6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "M:\\Portfolio\\Wizard OOP\\Cviko6\\Cviko6.csproj",
+        "projectName": "Cviko6",
+        "projectPath": "M:\\Portfolio\\Wizard OOP\\Cviko6\\Cviko6.csproj",
+        "packagesPath": "C:\\Users\\pmatu\\.nuget\\packages\\",
+        "outputPath": "M:\\Portfolio\\Wizard OOP\\Cviko6\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pmatu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://hades.cit.fei.tuke.sk:8080/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Merlin2d": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "MerlinCore": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

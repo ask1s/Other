@@ -1,0 +1,6 @@
+name;spelltype;animationpath;animationwidth;animationheight;effect
+fireball;projectile;resources/sprites/fireball.png;30;30;damage 40,dot 3
+frostball;projectile;resources/sprites/frostball.png;30;30;damage 20,slow 0.5
+heal;self;;0;0;heal -30
+boost;self;;0;0;boost 3.3
+dot;self;;0;0;dot 5
